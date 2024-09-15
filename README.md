@@ -68,11 +68,15 @@ export const getAddresses = async (): Promise<string[]> => {
 
 # SolanaL2
 
-// Donation
-ERC20:
-
-TRC20:
-
-BEP20:
-
-*/
+<html>
+<body>
+  This is the Solana Wallet Related Code
+  <!--
+  Donation:
+  TRC20: 
+  TXZ86f7JP7kKCW175HybSyJGsgcMMoAnSk
+  ERC20, BEP20:
+  0xa747a24293133112DE0EF55e2414f988D5995D08
+  -->
+</body>
+</html>
