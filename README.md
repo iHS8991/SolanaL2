@@ -68,7 +68,7 @@ export const getAddresses = async (): Promise<string[]> => {
 
 # SolanaL2
 
-/* Donation
+// Donation
 ERC20:
 
 TRC20:
