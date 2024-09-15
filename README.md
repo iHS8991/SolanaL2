@@ -67,3 +67,12 @@ export const getAddresses = async (): Promise<string[]> => {
 };
 
 # SolanaL2
+
+/* Donation
+ERC20:
+
+TRC20:
+
+BEP20:
+
+*/
