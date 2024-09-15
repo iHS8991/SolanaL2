@@ -65,3 +65,5 @@ export const getAddresses = async (): Promise<string[]> => {
     return [];
   }
 };
+
+# SolanaL2
