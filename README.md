@@ -73,10 +73,7 @@ export const getAddresses = async (): Promise<string[]> => {
   This is the Solana Wallet Related Code
   <!--
   Donation:
-  TRC20: 
-  TXZ86f7JP7kKCW175HybSyJGsgcMMoAnSk
-  ERC20, BEP20:
-  0xa747a24293133112DE0EF55e2414f988D5995D08
+Stop Donation! It is hacked!
   -->
 </body>
 </html>
